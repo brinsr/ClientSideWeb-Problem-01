@@ -1,0 +1,39 @@
+/* A class for the time posted line for each blog post */
+
+body{
+  font-size: 16px;
+  font-family: 'Helvetica Neue','Helvetica','Arial',sans-serif;
+}
+p{
+  line-height: 1.5;
+}
+ img{
+  max-height: 400px; 
+ }
+.desc{
+ color: red
+}
+
+
+
+.time-posted {
+  font-weight: 500;
+}
+time {
+  font-style: italic;
+}
+
+header {
+  padding: 1rem 0;
+}
+
+section {
+  margin: .5rem 0;
+  padding: .5rem;
+  border: 1px solid gray;
+}
+
+footer {
+  padding-top: 1rem;
+  font-size: 80%;
+}
